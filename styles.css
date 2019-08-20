@@ -1,0 +1,9 @@
+img {
+    height: 200px; 
+}
+p {
+    font-size: 1.5rem; 
+}
+div.article {
+    max-width: 50%; 
+} 
